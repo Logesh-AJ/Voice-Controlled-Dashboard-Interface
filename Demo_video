@@ -1,0 +1,7 @@
+### 🎤 Voice-Controlled Dashboard Demo  
+
+This demo showcases a voice-controlled dashboard interface built using Fast Whisper and Python. The system processes voice commands and dynamically updates a simulated vehicle control dashboard, including engine status, wipers, headlights, and indicators.
+
+▶ [Watch Voice-Controlled Dashboard Demo](https://youtu.be/VKOTKlumzl4)  
+
+The video demonstrates real-time voice command recognition, UI responsiveness, and seamless interaction between speech input and dashboard state changes within a simulated environment.
